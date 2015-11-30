@@ -1,7 +1,4 @@
-MazeMan
-
-=======
-
+#PictureLab
 
 <p>
 Follow these steps for each GitHub assignment:
